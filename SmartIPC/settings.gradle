@@ -1,0 +1,4 @@
+rootProject.name = "SmartIPC"
+include ':app'
+include ':smartipclib'
+include ':smartipctest'
